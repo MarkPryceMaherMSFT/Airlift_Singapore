@@ -96,7 +96,9 @@ document. **
 4.  Write a query to join both tables above to generate a report that looks similar to below:
 
 ProductKey | ProductSubCategoryKey | ListPrice
+
 448        | 21                    | 53.99
+
 371        | 2                     | 2181.5625
 
 
